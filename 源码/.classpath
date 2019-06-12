@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Eclipse/java/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/chs/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/java/java_websocket.jar/org/java_websocket/util"/>
+	<classpathentry kind="lib" path="D:/Eclipse/java/beautyeye-3.7/dist/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/java/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/java/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
