@@ -11,7 +11,6 @@ public class ConnectDatabase
 	private String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
 	private String url = "jdbc:sqlserver://localhost; DatabaseName=SchoolBookManage";
 	private String user = "sa";
-	
 	private String passwd = "123456";
 	
 	private void run(String sql) throws ClassNotFoundException, SQLException 

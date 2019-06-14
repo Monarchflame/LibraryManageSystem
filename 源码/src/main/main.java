@@ -545,24 +545,24 @@ public class main extends JFrame
 	}
 	public void setImage() 
 	{
-		studentBorrowBook_button.setIcon(new ImageIcon("borrow.png"));
-		studentInfo_button.setIcon(new ImageIcon("login.png"));
-		studentReturnBook_button.setIcon(new ImageIcon("return.png"));
-		selectSeat_button.setIcon(new ImageIcon("selectseat.png"));
-		retreatSeat_button.setIcon(new ImageIcon("retreatseat.png"));
-		leaderBoard_button.setIcon(new ImageIcon("list.png"));
-		studentBorrowInfo_button.setIcon(new ImageIcon("borrowinfo.png"));
+		studentBorrowBook_button.setIcon(new ImageIcon("picture//borrow.png"));
+		studentInfo_button.setIcon(new ImageIcon("picture//login.png"));
+		studentReturnBook_button.setIcon(new ImageIcon("picture//return.png"));
+		selectSeat_button.setIcon(new ImageIcon("picture//selectseat.png"));
+		retreatSeat_button.setIcon(new ImageIcon("picture//retreatseat.png"));
+		leaderBoard_button.setIcon(new ImageIcon("picture//list.png"));
+		studentBorrowInfo_button.setIcon(new ImageIcon("picture//borrowinfo.png"));
 		
-		teacherBorrowBook_button.setIcon(new ImageIcon("borrow.png"));
-		teacherInfo_button.setIcon(new ImageIcon("login.png"));
-		teacherReturnBook_button.setIcon(new ImageIcon("return.png"));
-		leaderBoard_button_2.setIcon(new ImageIcon("list.png"));
-		teacherBorrowinfo_button.setIcon(new ImageIcon("borrowinfo.png"));
+		teacherBorrowBook_button.setIcon(new ImageIcon("picture//borrow.png"));
+		teacherInfo_button.setIcon(new ImageIcon("picture//login.png"));
+		teacherReturnBook_button.setIcon(new ImageIcon("picture//return.png"));
+		leaderBoard_button_2.setIcon(new ImageIcon("picture//list.png"));
+		teacherBorrowinfo_button.setIcon(new ImageIcon("picture//borrowinfo.png"));
 		
-		managerInfo_button.setIcon(new ImageIcon("login.png"));
-		bookManage_button.setIcon(new ImageIcon("bookmanage.png"));
-		managerReturnBook_button.setIcon(new ImageIcon("returnbook.png"));
-		findReader_button.setIcon(new ImageIcon("findreader.png"));
-		payFine_button.setIcon(new ImageIcon("fine.png"));
+		managerInfo_button.setIcon(new ImageIcon("picture//login.png"));
+		bookManage_button.setIcon(new ImageIcon("picture//bookmanage.png"));
+		managerReturnBook_button.setIcon(new ImageIcon("picture//returnbook.png"));
+		findReader_button.setIcon(new ImageIcon("picture//findreader.png"));
+		payFine_button.setIcon(new ImageIcon("picture//fine.png"));
 	}
 }
